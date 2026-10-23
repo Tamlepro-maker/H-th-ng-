@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Quản Lý Bảo Trì Chung Cư",
+  "description": "Ứng dụng di động quản lý bảo trì và tiếp nhận xử lý sự cố chung cư đa vai trò Cư dân - Ban Quản Lý - Kỹ Thuật Viên với đồng bộ thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
